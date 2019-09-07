@@ -6,6 +6,8 @@ package entity;
  */
 public class Teacher extends Person{
 
+    private String schoolName;
+
     public void teach(){
         System.out.println("teach");
     }
