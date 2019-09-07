@@ -9,6 +9,9 @@ public class Person {
     private String name;
     private Integer age;
 
+    public void run(){
+        System.out.println("run");
+    }
 
     public Long getId() {
         return id;
