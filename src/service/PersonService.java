@@ -21,4 +21,8 @@ public class PersonService {
     public void autoSwim(){
         System.out.println("自动游泳");
     }
+
+    public void autoRun(){
+        System.out.println("自动跑");
+    }
 }
