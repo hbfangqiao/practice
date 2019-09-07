@@ -20,4 +20,12 @@ public class Teacher extends Person{
     public void kick(){
         System.out.println("kick");
     }
+
+    public List<String> getSubjectList() {
+        return subjectList;
+    }
+
+    public void setSubjectList(List<String> subjectList) {
+        this.subjectList = subjectList;
+    }
 }
