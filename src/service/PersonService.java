@@ -17,4 +17,8 @@ public class PersonService {
     public void autoFly(){
         System.out.println("自动飞");
     }
+
+    public void autoSwim(){
+        System.out.println("自动游泳");
+    }
 }
