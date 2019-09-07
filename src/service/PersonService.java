@@ -13,4 +13,8 @@ public class PersonService {
     public void autoSleep(){
         System.out.println("自动睡觉");
     }
+
+    public void autoFly(){
+        System.out.println("自动飞");
+    }
 }
