@@ -9,4 +9,8 @@ public class PersonService {
     public void autoDressed(){
         System.out.println("自动穿衣服");
     }
+
+    public void autoSleep(){
+        System.out.println("自动睡觉");
+    }
 }
