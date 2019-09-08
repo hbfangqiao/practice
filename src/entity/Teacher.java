@@ -18,6 +18,7 @@ public class Teacher extends Person{
         System.out.println("step2");
         System.out.println("step3");
         System.out.println("step4");
+        System.out.println("step5");
         System.out.println("teach");
     }
 
