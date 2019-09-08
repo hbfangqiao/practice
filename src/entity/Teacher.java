@@ -28,7 +28,7 @@ public class Teacher extends Person{
     }
 
     public void changeSubject(){
-        System.out.println("改变主科目");
+        System.out.println("是否改变主科目");
     }
 
     public List<String> getSubjectList() {
