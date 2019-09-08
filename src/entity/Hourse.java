@@ -40,4 +40,8 @@ public class Hourse {
     public void findById(){
         System.out.println("从db中查询");
     }
+
+    public void findByAddress(){
+        System.out.println("通过地址查找");
+    }
 }
