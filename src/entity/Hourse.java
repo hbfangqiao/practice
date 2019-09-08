@@ -44,4 +44,8 @@ public class Hourse {
     public void findByAddress(){
         System.out.println("通过地址查找");
     }
+
+    public void findById(){
+        System.out.println("从redis中查询");
+    }
 }
