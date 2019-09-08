@@ -25,9 +25,7 @@ public class Teacher extends Person{
     }
 
     public void kicks(){
-        System.out.println("kicking one");
-        System.out.println("请确认修复了kick的bug");
-        System.out.println("kicking");
+        //delete all error kick
     }
 
     public void changeSubject(){
