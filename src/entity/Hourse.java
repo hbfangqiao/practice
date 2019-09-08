@@ -35,6 +35,9 @@ public class Hourse {
 
     public void setAddress(String address) {
         this.address = address;
+    }
 
+    public void findById(){
+        System.out.println("从db中查询");
     }
 }
