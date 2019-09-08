@@ -24,7 +24,7 @@ public class Teacher extends Person{
         System.out.println("teach");
     }
 
-    public void kick(){
+    public void kicks(){
         System.out.println("请确认修复了kick的bug");
         System.out.println("kick");
     }
