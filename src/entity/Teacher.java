@@ -8,6 +8,8 @@ import java.util.List;
  */
 public class Teacher extends Person{
 
+    //教学年限
+    private Integer teachAge;
 
     private String schoolName;
 
