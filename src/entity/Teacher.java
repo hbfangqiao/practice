@@ -22,6 +22,10 @@ public class Teacher extends Person{
         System.out.println("kick");
     }
 
+    public void changeSubject(){
+        System.out.println("改变主科目");
+    }
+
     public List<String> getSubjectList() {
         return subjectList;
     }
