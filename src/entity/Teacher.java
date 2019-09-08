@@ -18,6 +18,7 @@ public class Teacher extends Person{
     }
 
     public void kick(){
+        System.out.println("修复了kick的bug");
         System.out.println("kick");
     }
 
