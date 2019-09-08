@@ -14,6 +14,10 @@ public class Teacher extends Person{
     private List<String> subjectList;
 
     public void teach(){
+        System.out.println("step1");
+        System.out.println("step2");
+        System.out.println("step3");
+        System.out.println("step4");
         System.out.println("teach");
     }
 
